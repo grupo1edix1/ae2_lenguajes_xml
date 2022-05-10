@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteca>
+    <Libros>
+        <!--Libro1 -->
+        <Libro id= "L0001" >
+            <tipo_clase>Novela</tipo_clase>
+            <titulo_libro>Roma Soy yo: La verdadera historia de Julio César</titulo_libro>
+            <capitulo>
+                <numero_capitulo>1</numero_capitulo>
+                <titulo_capitulo>Inicios</titulo_capitulo>
+                <num_paginas>20</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros tipo novela:</title>
+                        </head>
+                        <body>
+                            <h1>Roma Soy yo: La verdadera historia de Julio César</h1>
+                            <h2>Inicios</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <capitulo>
+                <numero_capitulo>2</numero_capitulo>
+                <titulo_capitulo>Juventud y entrenamiento militar</titulo_capitulo>
+                <num_paginas>30</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros tipo novela:</title>
+                        </head>
+                        <body>
+                            <h1>Roma Soy yo: La verdadera historia de Julio César</h1>
+                            <h2>Juventud y entrenamiento militar</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <capitulo>
+                <numero_capitulo>3</numero_capitulo>
+                <titulo_capitulo>Éjercito</titulo_capitulo>
+                <num_paginas>40</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros tipo novela:</title>
+                        </head>
+                        <body>
+                            <h1>Roma Soy yo: La verdadera historia de Julio César</h1>
+                            <h2>Éjercito</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <capitulo>
+                <numero_capitulo>4</numero_capitulo>
+                <titulo_capitulo>Madurez</titulo_capitulo>
+                <num_paginas>40</num_paginas>
+                <contenido>
+                    <contenido>
+                        <![CDATA[ 
+                        <html>
+                            <head>
+                                <title>Libros tipo novela:</title>
+                            </head>
+                            <body>
+                                <h1>Roma Soy yo: La verdadera historia de Julio César</h1>
+                                <h2>Madurez</h2>
+                            </body>
+                        </html>
+                        ]]>
+                    </contenido>
+                </contenido>
+            </capitulo>
+            <Indice_libro>
+                <indice id= "1">Inicios</indice>
+                <indice id= "2">Juventud y entrenamiento militar</indice>
+                <indice id= "3">Éjercito</indice>
+                <indice id= "3">Madurez</indice>
+            </Indice_libro>
+            <total_pag>130</total_pag>
+        </Libro>
+        <!--Libro2 -->
+        <Libro id= "L0002" >
+            <tipo_clase>Infantil</tipo_clase>
+            <titulo_libro>El flautista de Hamelín</titulo_libro>
+            <capitulo>
+                <numero_capitulo>1</numero_capitulo>
+                <titulo_capitulo>Introducción</titulo_capitulo>
+                <num_paginas>5</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros Infantiles:</title>
+                        </head>
+                        <body>
+                            <h1>El flautista de Hamelín</h1>
+                            <h2>Introducción</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <capitulo>
+                <numero_capitulo>2</numero_capitulo>
+                <titulo_capitulo>Desarrollo</titulo_capitulo>
+                <num_paginas>5</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros infantiles:</title>
+                        </head>
+                        <body>
+                            <h1>El flautista de Hamelín</h1>
+                            <h2>Desarrolo</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <capitulo>
+                <numero_capitulo>3</numero_capitulo>
+                <titulo_capitulo>Moraleja</titulo_capitulo>
+                <num_paginas>5</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros infantiles:</title>
+                        </head>
+                        <body>
+                            <h1>El flautista de Hamelín</h1>
+                            <h2>Moraleja</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <Indice_libro>
+                <indice id= "1">Introduccion</indice>
+                <indice id= "2">Desarrollo</indice>
+                <indice id= "3">Moraleja</indice>
+            </Indice_libro>
+            <total_pag>15</total_pag>
+        </Libro>
+        <!--Libro3 -->
+        <Libro id= "L0003" >
+            <tipo_clase>Didáctico</tipo_clase>
+            <titulo_libro>El gran libro de matemáticas</titulo_libro>
+            <capitulo>
+                <numero_capitulo>1</numero_capitulo>
+                <titulo_capitulo>Sumas</titulo_capitulo>
+                <num_paginas>4</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros didácticos:</title>
+                        </head>
+                        <body>
+                            <h1>El gran libro de matemáticas</h1>
+                            <h2>Sumas</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <capitulo>
+                <numero_capitulo>2</numero_capitulo>
+                <titulo_capitulo>Restas</titulo_capitulo>
+                <num_paginas>4</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros didácticos:</title>
+                        </head>
+                        <body>
+                            <h1>El gran libro de matemáticas</h1>
+                            <h2>Restaso</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <capitulo>
+                <numero_capitulo>3</numero_capitulo>
+                <titulo_capitulo>Multiplicaciones</titulo_capitulo>
+                <num_paginas>6</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros didácticos:</title>
+                        </head>
+                        <body>
+                            <h1>El gran libro de matemáticas</h1>
+                            <h2>Multiplicaciones</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <capitulo>
+                <numero_capitulo>4</numero_capitulo>
+                <titulo_capitulo>Divisiones</titulo_capitulo>
+                <num_paginas>4</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros didácticos:</title>
+                        </head>
+                        <body>
+                            <h1>El gran libro de matemáticas</h1>
+                            <h2>Divisiones</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <capitulo>
+                <numero_capitulo>5</numero_capitulo>
+                <titulo_capitulo>Ecuaciones</titulo_capitulo>
+                <num_paginas>4</num_paginas>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Libros didácticos:</title>
+                        </head>
+                        <body>
+                            <h1>El gran libro de matemáticas</h1>
+                            <h2>Ecuaciones</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </capitulo>
+            <Indice_libro>
+                <indice id= "1">Sumas</indice>
+                <indice id= "2">Restas</indice>
+                <indice id= "3">Multiplicaciones</indice>
+                <indice id= "3">Divisiones</indice>
+                <indice id= "3">Ecuaciones</indice>
+            </Indice_libro>
+            <total_pag>22</total_pag>
+        </Libro>
+    </Libros>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Biblioteca>

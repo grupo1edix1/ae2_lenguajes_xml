@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteca>
+    <Periodicos>
+        <!--Periódico1 -->
+        <Periodico id="P2001">
+            <tipo_clase>Internacional</tipo_clase>
+            <fecha_publicación>09/05/22</fecha_publicación>
+            <secciones>
+                <tipo_seccion>Económica</tipo_seccion>
+                <articulos>
+                    <autor>Grupo5</autor>
+                </articulos>
+            </secciones>
+            <indices>
+                <indice id= "1">El impacto de la crisis mundial vivida por el Covid</indice>
+                <indice id= "2">La crisis mundial provocada por la guerra entre Rusia y Ucrania</indice>
+                <indice id= "3">La repercusion de la subida del barril de Brent</indice>
+            </indices>
+        </Periodico>
+         <!--Periódico2 -->
+         <Periodico id="P2002">
+            <tipo_clase>Internacional</tipo_clase>
+            <fecha_publicación>10/05/22</fecha_publicación>
+            <secciones>
+                <tipo_seccion>Opinión</tipo_seccion>
+                <articulos>
+                    <autor>Grupo5</autor>
+                </articulos>
+            </secciones>
+            <indices>
+                <indice>Opinión del experto en neurociencia el Dr. MeLoEstoyCurrando</indice>
+            </indices>
+        </Periodico>
+        <!--Periódico3 -->
+        <Periodico id="P2003">
+            <tipo_clase>Internacional</tipo_clase>
+            <fecha_publicación>10/05/22</fecha_publicación>
+            <secciones>
+                <tipo_seccion>Deportes</tipo_seccion>
+                <articulos>
+                    <autor>Grupo5</autor>
+                </articulos>
+            </secciones>
+            <indices>
+                <indice id= "1">El Real Madrid ha ganado la Liga</indice>
+                <indice id= "2">El Cádiz mantiene su categoría</indice>
+                <indice id= "3">El Atlético de Madrid no hara el paseillo al Real Madrid</indice>
+                <indice id= "4">El Atlético de Madrid gano al Real Madrid con un gol</indice>
+            </indices>
+        </Periodico>
+        <!--Periódico4 -->
+        <Periodico id="P2004">
+            <tipo_clase>Internacional</tipo_clase>
+            <fecha_publicación>11/05/22</fecha_publicación>
+            <secciones>
+                <tipo_seccion>Nacional</tipo_seccion>
+                <articulos>
+                    <autor>Grupo5</autor>
+                </articulos>
+            </secciones>
+            <indices>
+                <indice id= "1">Dimite la presidenta del CNI</indice>
+                <indice id= "2">Feijoo se convierte en el nuevo lider del PP</indice>
+            </indices>
+        </Periodico>
+        <!--Periódico5 -->
+        <Periodico id="P2005">
+            <tipo_clase>Internacional</tipo_clase>
+            <fecha_publicación>12/05/22</fecha_publicación>
+            <secciones>
+                <tipo_seccion>Internacional</tipo_seccion>
+                <articulos>
+                    <autor>Grupo5</autor>
+                </articulos>
+            </secciones>
+            <indices>
+                <indice id= "1">La guerra entre Ucrania y Rusia lleva mas de 2 meses de duración</indice>
+                <indice id= "2">La subida del barril de Brent</indice>
+            </indices>
+        </Periodico>
+        <!--Periódico6 -->
+        <Periodico id="P2006">
+            <tipo_clase>Nacional</tipo_clase>
+            <fecha_publicación>13/05/22</fecha_publicación>
+            <secciones>
+                <tipo_seccion>Económica</tipo_seccion>
+                <articulos>
+                    <autor>Grupo5</autor>
+                </articulos>
+            </secciones>
+            <indices>
+                <indice id= "1">El precio de la luz se dispara un 54% en Abril</indice>
+                <indice id= "2">Echar gasolina seguira siendo más caro</indice>
+                <indice id= "3">La primera autovia de pago es El tramo de la A-636 entre Beasain y Bergara</indice>
+            </indices>
+        </Periodico>
+        <contenido>
+            <![CDATA[ 
+                <html>
+                    <head>
+                        <title>Periodicos:</title>
+                    </head>
+                    <body>
+                        <h1>Tipos:</h1>
+                        <h2>Nacional</h2>
+                        <h2>Internacional</h2>
+                    </body>
+                </html>
+                ]]>
+        </contenido>
+    </Periodicos>
+</Biblioteca>

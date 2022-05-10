@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteca>
+    <Revistas>
+        <!--Revista1 -->
+        <Revista id= "R1111">
+            <tipo_clase>Informática</tipo_clase>
+            <titulo>Computer</titulo>
+            <num_revista>10523</num_revista>
+            <indice_contenido>
+                <indice id="1">Noticias de hoy</indice>
+                <indice id="2">Entrevista al mejor desarrollador del año</indice>
+                <indice id="3">Anuncios de empresas del sector IT</indice>
+                <indice id="4">Cursos enfocados en It</indice>
+                <indice id="5">Avance del numero siguiente</indice>
+            </indice_contenido>
+            <secciones>
+                <num_pag>10</num_pag>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Revistas:</title>
+                        </head>
+                        <body>
+                            <h1>Temática Informática</h1>
+                            <h2>Computer</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </secciones>
+            <total_pag>10</total_pag>
+        </Revista>
+        <!--Revista2 -->
+        <Revista id= "R1112">
+            <tipo_clase>Corazón</tipo_clase>
+            <titulo>Hola!</titulo>
+            <num_revista>25001</num_revista>
+            <indice_contenido>
+                <indice id="1">Actualidad</indice>
+                <indice id="2">Entrevista a Manolito Sanchez</indice>
+                <indice id="3">Ruptura de Manuel Molina</indice>
+                <indice id="4">Nutrición</indice>
+                <indice id="5">Ahora que llega el sol, piel y pelo cuidado!</indice>
+                <indice id="6">Avance del siguiente número</indice>
+            </indice_contenido>
+            <secciones>
+                <num_pag>35</num_pag>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Revistas:</title>
+                        </head>
+                        <body>
+                            <h1>Temática Corazón</h1>
+                            <h2>Hola</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </secciones>
+            <total_pag>35</total_pag>
+        </Revista>
+        <!--Revista3 -->
+        <Revista id= "R1113">
+            <tipo_clase>Coches</tipo_clase>
+            <titulo>Coches!!</titulo>
+            <num_revista>25002</num_revista>
+            <indice_contenido>
+                <indice id="1">El cohe con mejor diseño</indice>
+                <indice id="2">El coche más barato del mes</indice>
+                <indice id="3">El mejor coche diesel </indice>
+                <indice id="4">Los clásicos</indice>
+                <indice id="5">Entrevista al director de Audi de Europa</indice>
+            </indice_contenido>
+            <secciones>
+                <num_pag>20</num_pag>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Revistas:</title>
+                        </head>
+                        <body>
+                            <h1>Temática Coches</h1>
+                            <h2>Coches!!</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </secciones>
+            <total_pag>20</total_pag>
+        </Revista>
+        <!--Revista4 -->
+        <Revista id= "R1114">
+            <tipo_clase>Investigación</tipo_clase>
+            <titulo>Investigación y ciencia</titulo>
+            <num_revista>30000</num_revista>
+            <indice_contenido>
+                <indice id="1">La contaminación acústica</indice>
+                <indice id="2">El impacto del covid en el medioambiente</indice>
+                <indice id="3">Los movimientos de las placas tectónicas y sus consecuencias en la erupción del Cumbre Vieja</indice>
+            </indice_contenido>
+            <secciones>
+                <num_pag>25</num_pag>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Revistas:</title>
+                        </head>
+                        <body>
+                            <h1>Temática investigación</h1>
+                            <h2>Investigación y ciencia</h2>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </secciones>
+            <total_pag>25</total_pag>
+        </Revista>
+        <!--Revista5 -->
+        <Revista id= "R1115">
+            <tipo_clase>Otras</tipo_clase>
+            <titulo>Ikea</titulo>
+            <num_revista>21200</num_revista>
+            <indice_contenido>
+                <indice id="1">La primavera explota en tu salón</indice>
+                <indice id="2">El baño de ensueño</indice>
+                <indice id="3">Accesorios de baño</indice>
+                <indice id="4">Cortinas para todas las estancias</indice>
+                <indice id="5">Convierte tu cocina, en una cocina profesional</indice>
+            </indice_contenido>
+            <secciones>
+                <num_pag>50</num_pag>
+                <contenido>
+                    <![CDATA[ 
+                    <html>
+                        <head>
+                            <title>Revistas:</title>
+                        </head>
+                        <body>
+                            <h1>Temática otras</h1>
+                            <h2>Decora tu casa</h2>
+                            <h3>IKEA</h3>
+                        </body>
+                    </html>
+                    ]]>
+                </contenido>
+            </secciones>
+            <total_pag>50</total_pag>
+        </Revista>
+    </Revistas>
+</Biblioteca>
